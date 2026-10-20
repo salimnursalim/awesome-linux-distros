@@ -136,6 +136,10 @@ Here is an extensive list of Linux distributions along with their associated Git
 31. **Slackware Linux**  
     - SlackBuilds: [http://slackbuilds.org/](http://slackbuilds.org/)
 
+32. **AstraOS**  
+    - GitHub: [https://github.com/rafikulislammollaq-dev/astraos](https://github.com/rafikulislammollaq-dev/astraos)  
+    - Note: an independent, lightweight desktop distribution built from Debian 13 packages, with a themed Xfce desktop and an AI assistant that has a seven-step confirmation set, a sandbox and undo. The ISO is built and booted in CI and the installer is exercised onto a blank disk. Early alpha, x86_64 only.
+
 ---
 
 ### **Forensics and Recovery**
